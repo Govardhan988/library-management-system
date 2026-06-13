@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background: #f4f4f4;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+th {
+    background: #efefef;
+}
+
+form {
+    width: 400px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
